@@ -12,7 +12,6 @@ Currently studying as a Full Time student, with hopes of graduating in 2022. I a
 
 
 - 😄 My Pronouns: She/Her   
-- 🔭 What I'm Currently working on: A video streaming/subscription service, a la 'Netflix', made from scratch. Check it out [here!](https://github.com/freya-cmd/FFlix)
 - 📫 How to reach me: Contact me via [my Website!](http://freyabet.com/)
 - ⚡ Fun fact: LGBTQ+ and an Anime Geek.
 
